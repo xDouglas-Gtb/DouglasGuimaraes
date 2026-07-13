@@ -2,7 +2,7 @@
 
 - 🎓 Curso Analise e Desenvolvimento de Sistemas (ADS)
 - 🤓 Conhecimento Basico em HTML, CSS, JavaScript
-- 📖 Estudando Java & Python
+- 📖 Estudo Java (linguagem que mais utilizo)
 - 😄 Conhecimento basico em Banco de Dados
 
 <div>
